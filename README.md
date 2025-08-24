@@ -1,8 +1,8 @@
 # AI-Assisted SaaS Development Template
 
-[![GitHub stars](https://img.shields.io/github/stars/roanschuurman/saas-template?style=for-the-badge)](https://github.com/roanschuurman/saas-template/stargazers)
-[![GitHub license](https://img.shields.io/github/license/roanschuurman/saas-template?style=for-the-badge)](https://github.com/roanschuurman/saas-template/blob/main/LICENSE)
-[![CI/CD Pipeline](https://img.shields.io/github/actions/workflow/status/roanschuurman/saas-template/saas-ci.yml?style=for-the-badge&label=CI%2FCD)](https://github.com/roanschuurman/saas-template/actions)
+[![GitHub stars](https://img.shields.io/github/stars/roanschuurman/ai-saas-template?style=for-the-badge)](https://github.com/roanschuurman/ai-saas-template/stargazers)
+[![GitHub license](https://img.shields.io/github/license/roanschuurman/ai-saas-template?style=for-the-badge)](https://github.com/roanschuurman/ai-saas-template/blob/main/LICENSE)
+[![CI/CD Pipeline](https://img.shields.io/github/actions/workflow/status/roanschuurman/ai-saas-template/saas-ci.yml?style=for-the-badge&label=CI%2FCD)](https://github.com/roanschuurman/ai-saas-template/actions)
 
 Opinionated prompt architecture for Next.js SaaS applications, enabling small, fully testable iterations with strict separation between PROCESS (workflow) and SOLUTION (SaaS technology stack).
 
@@ -18,7 +18,7 @@ This template is specifically designed for **Next.js SaaS applications** with:
 
 1. **Clone this template:**
    ```bash
-   git clone https://github.com/roanschuurman/saas-template.git my-saas-app
+   git clone https://github.com/roanschuurman/ai-saas-template.git my-saas-app
    cd my-saas-app
    ```
 
