@@ -1,5 +1,9 @@
 # AI-Assisted SaaS Development Template
 
+[![GitHub stars](https://img.shields.io/github/stars/roanschuurman/saas-template?style=for-the-badge)](https://github.com/roanschuurman/saas-template/stargazers)
+[![GitHub license](https://img.shields.io/github/license/roanschuurman/saas-template?style=for-the-badge)](https://github.com/roanschuurman/saas-template/blob/main/LICENSE)
+[![CI/CD Pipeline](https://img.shields.io/github/actions/workflow/status/roanschuurman/saas-template/saas-ci.yml?style=for-the-badge&label=CI%2FCD)](https://github.com/roanschuurman/saas-template/actions)
+
 Opinionated prompt architecture for Next.js SaaS applications, enabling small, fully testable iterations with strict separation between PROCESS (workflow) and SOLUTION (SaaS technology stack).
 
 ## SaaS Stack Focus
@@ -9,6 +13,25 @@ This template is specifically designed for **Next.js SaaS applications** with:
 - Supabase backend integration
 - Modern web development tooling
 - Cloud deployment strategies
+
+## 🚀 Quick Start
+
+1. **Clone this template:**
+   ```bash
+   git clone https://github.com/roanschuurman/saas-template.git my-saas-app
+   cd my-saas-app
+   ```
+
+2. **Use with AI Assistant:**
+   - Load `prompts/actions/start-project.prompt.md` in your AI assistant
+   - Follow the 8-step workflow for feature development
+   - Reference `prompts/stacks/instructions_saas.md` for technical standards
+
+3. **Start Development:**
+   ```bash
+   npm install
+   npm run dev
+   ```
 
 ## Structure
 
